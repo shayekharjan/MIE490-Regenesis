@@ -30,7 +30,7 @@ public class AdminServlet extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		PrintWriter p = response.getWriter();
-		p.println("Admin");
+		p.println("Admin is in GitHub now");
 	}
 
 	/**
